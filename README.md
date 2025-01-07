@@ -1,2 +1,2 @@
 # MARKETING ANALYTICS 
-# Data Exploration & Visualization
+Data Exploration & Visualization for Lobster Land Theme Park
