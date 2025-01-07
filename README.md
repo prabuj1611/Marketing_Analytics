@@ -1,5 +1,5 @@
 # MARKETING ANALYTICS 
 
-Data Exploration & Visualization for Lobster Land Theme Park
+Data Exploration & Visualization 
 
-Market Segmentation & Conjoint Analysis
+Market Segmentation & Conjoint Analysis for Lobster Land Theme Park
