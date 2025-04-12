@@ -1,11 +1,11 @@
 # MARKETING ANALYTICS 
 
-Data Exploration & Visualization 
+- Data Exploration & Visualization 
 
-Market Segmentation & Conjoint Analysis for Lobster Land Theme Park
+- Market Segmentation & Conjoint Analysis for Lobster Land Theme Park
 
-Statistical Testing
+- Statistical Testing
 
-Logistic Regression Model & Random Forest Model
+- Logistic Regression Model & Random Forest Model
 
-Time Series Data & Modeling 
+- Time Series Data & Modeling 
